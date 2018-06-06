@@ -1,0 +1,4 @@
+06June 7114 Enter the 4-digit pin: You got the pin right!
+The secret token is: 8fd3405db1a1
+Welcome, my dude.
+
